@@ -6,6 +6,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mahechen/count.svg" />
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahechen)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MaheChen/MaheChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
