@@ -10,11 +10,7 @@
   <img src="https://profile-counter.glitch.me/mahechen/count.svg" />
 </p>
 
-## Mcdull's statistics
 
-![Mcdull's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahechen&count_private=true&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahechen&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahechen&langs_count=10&layout=compact&theme=dark&show_icons=true)
 <!--
 **MaheChen/MaheChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Mcdull's statistics
+
+![Mcdull's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahechen&count_private=true&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahechen&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahechen&langs_count=10&layout=compact&theme=dark&show_icons=true)
