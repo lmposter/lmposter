@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/mahechen/count.svg" />
 </p>
 
-## 📊 Stats
+## Mcdull's statistics
 
 ![Mcdull's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahechen&count_private=true&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahechen&theme=dark)
 
