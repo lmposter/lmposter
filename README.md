@@ -1,5 +1,10 @@
 ### Hi there 👋
+<a href=#><img src="contributions.svg"></a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mahechen/count.svg" />
+</p>
 <!--
 **MaheChen/MaheChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
