@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 16 contributions in the last year
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
