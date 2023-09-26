@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi there, my name is Mcdull
 </h1>
-16 contributions in the last year
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
