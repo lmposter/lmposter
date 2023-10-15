@@ -10,7 +10,6 @@
 </p>
 
 <p align="left"> 
-  Top Languages<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&langs_count=10" />
 </p>
 
