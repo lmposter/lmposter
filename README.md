@@ -9,7 +9,10 @@
   <img src="https://profile-counter.glitch.me/mahechen/count.svg" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&langs_count=10)
+<p align="left"> 
+  Visitor count<br>
+  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&langs_count=10" />
+</p>
 
 <!--
 **MaheChen/MaheChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
