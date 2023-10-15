@@ -10,8 +10,8 @@
 </p>
 
 <p align="left"> 
-  Visitor count<br>
-  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&langs_count=10" />
+  Top Languages<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&langs_count=10" />
 </p>
 
 <!--
