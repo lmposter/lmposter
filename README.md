@@ -11,7 +11,9 @@
 
 ## 💼 Community Project
 
-Established an online coding club to foster interest in computer science among high school students. [![OnlineCodingClub](https://img.shields.io/badge/Online%20Coding%20Club-black?style=for-the-badge&logo=appstore&logoColor=blue)](https://club.mahechen.com/home)
+Established an online coding club to foster interest in computer science among high school students. 
+
+[![OnlineCodingClub](https://img.shields.io/badge/Online%20Coding%20Club-black?style=for-the-badge&logo=appstore&logoColor=blue)](https://club.mahechen.com/home)
 
 <!--
 **MaheChen/MaheChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
