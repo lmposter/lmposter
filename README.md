@@ -15,7 +15,7 @@ Established an online coding club to foster interest in computer science among h
 
 [![OnlineCodingClub](https://img.shields.io/badge/Online%20Coding%20Club-black?style=for-the-badge&logo=appstore&logoColor=blue)](https://club.mahechen.com/home)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&layout=donut&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&layout=donut-vertical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MaheChen/MaheChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
