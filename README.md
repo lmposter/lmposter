@@ -2,12 +2,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi there, my name is Mcdull
 </h1>
-<a href=#><img src="contributions.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mahechen/count.svg" />
-</p>
+```python
+import this
+
+zen_lines = this.s.splitlines()
+
+for line in zen_lines:
+    print(f"Zen says: {line.strip()}")
+
+print("\nBut remember, there's only one way to do it--")
+```
 
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
