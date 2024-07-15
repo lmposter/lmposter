@@ -3,6 +3,8 @@
   Hi there, my name is Mcdull
 </h1>
 
+## Python is <3
+
 ```python
 import this
 import codecs
