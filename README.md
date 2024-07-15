@@ -5,11 +5,14 @@
 
 ```python
 import this
+import codecs
 
 zen_lines = this.s.splitlines()
 
 for line in zen_lines:
-    print(f"Zen says: {line.strip()}")
+    if line.strip():
+        decoded_line = codecs.decode(line, 'rot_13')
+        print(f"Zen says: {decoded_line.strip()}")
 
 print("\nBut remember, there's only one way to do it--")
 ```
