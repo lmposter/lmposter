@@ -18,6 +18,11 @@ for line in zen_lines:
 
 print("\nBut remember, there's only one way to do it--")
 ```
+## 💼 Community Project
+
+Established an online coding club to foster interest in computer science among high school students. 
+
+[![OnlineCodingClub](https://img.shields.io/badge/Online%20Coding%20Club-black?style=for-the-badge&logo=appstore&logoColor=blue)](https://club.mahechen.com/home)
 
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,12 +50,6 @@ print("\nBut remember, there's only one way to do it--")
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-
-## 💼 Community Project
-
-Established an online coding club to foster interest in computer science among high school students. 
-
-[![OnlineCodingClub](https://img.shields.io/badge/Online%20Coding%20Club-black?style=for-the-badge&logo=appstore&logoColor=blue)](https://club.mahechen.com/home)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&langs_count=12&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
