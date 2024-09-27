@@ -24,6 +24,7 @@ Established an online coding club to foster interest in computer science among h
 
 [![OnlineCodingClub](https://img.shields.io/badge/Online%20Coding%20Club-black?style=for-the-badge&logo=appstore&logoColor=blue)](https://club.mahechen.com/home)
 
+<!--
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,6 +51,6 @@ Established an online coding club to foster interest in computer science among h
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmposter&langs_count=12&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
